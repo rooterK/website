@@ -1,0 +1,19 @@
+html{
+    scroll-behavior: smooth;
+    background-color: blue;
+    color: burlywood;
+}
+
+body{
+    max-width: 65%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    margin-bottom: 50px;
+
+}
